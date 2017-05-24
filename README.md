@@ -46,3 +46,6 @@ NodeList 对象会包含文档中的所有节点，如 Element、Text 和 Commen
 
 ####圣杯布局
 http://www.cnblogs.com/tinyphp/p/4742922.html
+
+#### HTTP协议
+    http://network.chinabyte.com/240/13310240.shtml
